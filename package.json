@@ -1,5 +1,5 @@
 {
-  "name": "vue3-lazy-load",
+  "name": "vue-next-lazyload",
   "version": "0.3.9",
   "packageManager": "pnpm@6.32.3",
   "description": "A Vue3.x image lazyload plugin",
