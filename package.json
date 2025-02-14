@@ -1,13 +1,13 @@
 {
-  "name": "vue3-lazyload",
-  "version": "0.3.8",
+  "name": "vue3-lazy-load",
+  "version": "0.3.9",
   "packageManager": "pnpm@6.32.3",
   "description": "A Vue3.x image lazyload plugin",
   "license": "MIT",
-  "author": "木荣 <admin@imuboy.cn>",
+  "author": "novlan1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murongg/vue3-lazyload.git"
+    "url": "git+https://github.com/novlan1/vue3-lazyload.git"
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -77,6 +77,7 @@
     "happy-dom": "^3.1.1",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.0",
+    "nr": "^0.1.0",
     "pnpm": "^6.32.6",
     "prettier": "^2.1.2",
     "rimraf": "^3.0.2",
@@ -93,12 +94,12 @@
   },
   "typings": "types/index.d.ts",
   "bugs": {
-    "url": "https://github.com/murongg/vue3-lazyload/issues"
+    "url": "https://github.com/novlan1/vue3-lazyload/issues"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "homepage": "https://github.com/murongg/vue3-lazyload#readme"
+  "homepage": "https://github.com/novlan1/vue3-lazyload#readme"
 }
